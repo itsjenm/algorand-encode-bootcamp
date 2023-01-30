@@ -1,0 +1,2 @@
+creator_mnemonic = "flush citizen unlock birth work auction concert sister diary struggle online keep member hammer essence raise vapor toward sign buyer gospel speed maximum able inherit"
+user_mnemonic = "column spy slush tonight device bridge resource spike visa arrange nation enhance become suspect father barely slab roast tuition favorite struggle random merge absorb impulse"
